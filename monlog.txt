@@ -1,0 +1,9 @@
+day1:
+
+Ceci est mon premier jour en tant que membre de la communauté Git
+
+je vais essayer d' utiliser Git dans toutes ses fonctionnalitées pour ameliorer mon travail et ma vie. J'entrevoi le potentiel d'une telle technologie et il est temps pour moi de me prendre en main.
+
+J'ai eu des difficultés avec l'installation de ma virtualbox linux. Celle ci ne semble plus se lancer après des mise a jours windows. J'espère que celà ne se reproduira pas. Cela me donne une raison de plus d'avoir une savegarde de mes dossiers et fichier via git et github.
+
+Je me lance dans l'apprentissage de Github pour garder une trace.
